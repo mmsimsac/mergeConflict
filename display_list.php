@@ -1,5 +1,8 @@
 <h1>Messages List</h1>
 <?php
+#this comment was made in vs code
+
+
 
 # connect
 require '../database/database.php';
