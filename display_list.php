@@ -1,11 +1,8 @@
 <h1>Messages List</h1>
 <?php
-<<<<<<< HEAD
 #this comment was made in vs code
-=======
 #this comment was made in github
 
->>>>>>> aa4e419df35d13151082e1a323f6d271d9928cf1
 
 
 
